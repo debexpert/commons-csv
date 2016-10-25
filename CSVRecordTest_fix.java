@@ -34,7 +34,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public final class CSVRecordTest {
+private final class CSVRecordTest {
 
     private enum EnumFixture { UNKNOWN_COLUMN }
 
